@@ -1,4 +1,4 @@
-# little-rgbw Change Log
+# Little-Chef Change Log
 
 Possible log types:
 
@@ -14,4 +14,4 @@ Possible log types:
 
 ## v0.0.0
 
-***(c)2022 by shasta***
+***(c)2023 by CAZaugg***

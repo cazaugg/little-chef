@@ -6,6 +6,7 @@
 # Local backup folders
 *-backup/
 fp-info-cache
+*auto_saved_files*
 
 # Ignore generated files (eg BOM)
 # Put them into prod/ folder
@@ -15,3 +16,5 @@ pcp/*.html
 
 # General
 *.zip
+prod/
+!prod/prod.md

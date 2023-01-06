@@ -1,4 +1,8 @@
-# Readme of little-rgbw PCB
+# Readme of Little-Chef PCB
+
+This is a small dev board with 3 analog inputs and 5 PWM outputs and one relay output. It is intended to control RGBW LED.
+
+The microcontroller is an PIC18 (8 bit MIPS).
 
 ## Project description
 
@@ -12,6 +16,8 @@ This is where your PCB description goes. If you want to learn more about this te
 
 ## Tools
 
-Made with KiCad 5.99, which is the nightly build of KiCad 6. This is not compatible with the stable KiCad 5.1.9
+Made with KiCad 6.09.
 
-***(c)2022 by shasta***
+This project was setup with [kicad-wizard]([script/kicad-wizard.md](https://gitlab.com/christoph.zaugg/kicad-template-repo/-/blob/master/script/kicad-wizard.md)
+
+***(c)2023 by CAZaugg***

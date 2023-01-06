@@ -1,4 +1,4 @@
-# Production documents little-rgbw
+# Production documents Little-Chef
 
 Add at least following:
 
@@ -11,4 +11,4 @@ Add at least following:
 
 Generated documents in repository's are not optimal. As long as there is now good way to generate this documentation with CI/CD pipelines, it is better to manually generate it and put them into this folder. Try the best to keep it up to date.
 
-***(c)2022 by shasta***
+***(c)2023 by CAZaugg***
