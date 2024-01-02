@@ -12,6 +12,8 @@ Possible log types:
 
 ## Unreleased
 
-## v0.0.0
+## v1.0.0
 
-***(c)2023 by CAZaugg***
+- `[added]` First prototype
+
+***(c)2024 by cazaugg***

@@ -9,6 +9,6 @@ Add at least following:
 
 ## Remarks
 
-Generated documents in repository's are not optimal. As long as there is now good way to generate this documentation with CI/CD pipelines, it is better to manually generate it and put them into this folder. Try the best to keep it up to date.
+The project is setup to generate the data in this subfolder. These files are not commited to the git repo, but attached to a release on github.
 
-***(c)2023 by CAZaugg***
+***(c)2024 by cazaugg***

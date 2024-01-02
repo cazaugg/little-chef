@@ -16,8 +16,8 @@ This is where your PCB description goes. If you want to learn more about this te
 
 ## Tools
 
-Made with KiCad 6.09.
+Made with KiCad 7.
 
 This project was setup with [kicad-wizard]([script/kicad-wizard.md](https://gitlab.com/christoph.zaugg/kicad-template-repo/-/blob/master/script/kicad-wizard.md)
 
-***(c)2023 by CAZaugg***
+***(c)2024 by cazaugg***
